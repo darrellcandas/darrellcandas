@@ -2,10 +2,10 @@
 
 
 
-###-⏳I’m currently working on GitHub ###educate.
-###-🧑‍💻I’m currently learning how to ###code in Pyton.
-###-👩‍🎓I'm a studing for a Bachalor in ###Technology with emphasis in ###development  
-###-📫How to reach me: ###Darrellcandasmyrider@gmail.com.
-###-🤞I'm wanting a good internship, ###if you know of any contact me.
-###-🥇I have received a honor awards ###in every semester at Strayer. 
+-⏳I’m currently working on GitHub educate.
+-🧑‍💻I’m currently learning how to code in Python.
+-👩‍🎓I'm studing for a Bachalor in information Technology with emphasis in software development  
+-📫How to reach me: Darrellcandasmyrider@gmail.com
+-🤞I'm wanting a good internship, if you know of any contact me.
+-🥇I have received a honor awards in every semester at Strayer University. 
 -->
